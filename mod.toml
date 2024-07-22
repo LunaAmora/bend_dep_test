@@ -1,4 +1,4 @@
 module = "LunaAmora/bend_dep_test"
 
 [lib]
-path = "src/hello.bend"
+path = "src/main.bend"
